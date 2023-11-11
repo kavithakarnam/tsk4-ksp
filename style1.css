@@ -1,0 +1,26 @@
+table{
+    font-size:  20px;
+    font-family: Arial;
+    font-weight: bold;
+    background: rgb(53, 102, 58);
+
+}
+
+h1{
+
+color: red;
+font-family: Georgia;
+text-align:middle; 
+
+
+
+}
+
+#btn{
+    width: 50%;
+    height:30px ;
+    font-size: 20px;
+    background-color:rosybrown;
+    border-radius: 3px;
+    text-align: left;
+}

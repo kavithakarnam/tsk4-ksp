@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    background-color:blanchedalmond;
+    color:black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.n1{
+    border-top: 1px solid;
+    margin: 50px;
+    padding: 50px;
+    font-size: 20px;
+    background-color: red;
+   
+}
+.n2{
+background-color: aquamarine;
+border:2px;
+padding: 25px;
+margin: 25px;
+font-size: 20px;
+
+
+}
+
